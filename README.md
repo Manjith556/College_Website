@@ -31,4 +31,4 @@ A responsive and user-friendly college website developed using HTML, CSS, and Ja
 - Add a search feature for courses and notices
 
 ## Author
-**Sumedha Mogallapalli**
+**Epuru Manjith Babu**
